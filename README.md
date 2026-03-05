@@ -24,6 +24,6 @@ Princeton University, Princeton, N. J.
 _GEBCO.net_<br />
 (https://www.gebco.net/data-products/historical-gebco-charts)
 
-* [4] "What is Bathymetry?",
-_USGS (United States Geological Survey)_, YouTube, 2 février 2022
+* [4] "What is Bathymetry?",<br />
+_USGS (United States Geological Survey)_, YouTube, 2 février 2022<br />
 (https://www.youtube.com/watch?v=dTkJjTAbBOI)
