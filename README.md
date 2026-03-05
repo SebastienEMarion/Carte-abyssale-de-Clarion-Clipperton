@@ -7,10 +7,10 @@ La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée po
 * **Bathymétrie** : C'est l'étude des reliefs et des profondeurs océaniques. Son but est la cartographie des océans. Ses intérêts sont multiples : navigation, prospection économique (par exemple les nodules polymétalliques, pouvant contenir des terres rares, du nickel...), mais aussi la prévention des risques sismiques (la dorsale Est-Pacifique, en perpétuelle évolution géologique, dans le processus d'expansion des fonds océaniques suivant Harry Hess [2])... 
 
 # Bibliographie :
-* [1] "Global Multi-Resolution Topography (GMRT), Version 4.4.1",
-_Global Multi-Resolution Topography Data Synthesis_, janvier 2026
+* [1] "Global Multi-Resolution Topography (GMRT), Version 4.4.1",<br />
+_Global Multi-Resolution Topography Data Synthesis_, janvier 2026<br />
 (https://www.gmrt.org/)
 
-* [3] "Archive of historical GEBCO charts",
-_GEBCO.net_
+* [3] "Archive of historical GEBCO charts",<br />
+_GEBCO.net_<br />
 (https://www.gebco.net/data-products/historical-gebco-charts)
