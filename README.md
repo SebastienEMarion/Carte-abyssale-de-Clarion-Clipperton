@@ -9,7 +9,7 @@ La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée po
 # Glossaire :
 * **Bathymétrie** : C'est l'étude des reliefs et des profondeurs océaniques. Son but est la cartographie des océans. Ses intérêts sont multiples : navigation, prospection économique (par exemple les nodules polymétalliques, pouvant contenir des terres rares, du nickel...), mais aussi la prévention des risques sismiques (la dorsale Est-Pacifique, en perpétuelle évolution géologique, dans le processus d'expansion des fonds océaniques suivant Harry Hess [2])...
 * **Expansion des fonds océaniques** : Dans son ouvrage, _History of Sea Basins_, Harry Hess parle non seulement des théories antérieures sur l'hypothèse d'une expansion des fonds océaniques, en tant que géologue, mais évoque aussi avec une carte la dorsale Est-Pacifique : [2] "_Figure 10. Contour approximatif de la dorsale Est-Pacifique, qui représente possiblement une dorsale océanique si jeune qu'elle n'a pas encore développé une zone de rift médiane et que des sédiments antérieurs à la dorsale sont encore sur sa croûte_".
-
+* **Sondeurs multifaisceaux** : 
 # Bibliographie :
 * [1] "Global Multi-Resolution Topography (GMRT), Version 4.4.1",<br />
 _Global Multi-Resolution Topography Data Synthesis_, janvier 2026<br />
@@ -23,3 +23,7 @@ Princeton University, Princeton, N. J.
 * [3] "Archive of historical GEBCO charts",<br />
 _GEBCO.net_<br />
 (https://www.gebco.net/data-products/historical-gebco-charts)
+
+* [4] "What is Bathymetry?",
+_USGS (United States Geological Survey)_, YouTube, 2 février 2022
+(https://www.youtube.com/watch?v=dTkJjTAbBOI)
