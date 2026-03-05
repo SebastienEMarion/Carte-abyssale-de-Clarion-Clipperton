@@ -5,7 +5,10 @@ Carte bathymétrique QGIS de Clarion-Clipperton, avec ZEE de la France, sources 
 
 
 # Bathymétrie ?
-La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée pour cela correspond aux normes GEBCO [3], lesquelles ont historiquement évolué : "_La série de chartes GEBCO fut commencée en 1903 par le prince Albert Ier de Monaco [dit le prince navigateur] — donnant des informations sur la forme et la profondeur de la plaine abyssale mondiale. Durant le XXe siècle, il y eut cinq éditions papier de la série de chartes avant que GEBCO ne produise ses premiers produits digitaux au début des années 1990._". Sa méthode [1] : "_Des données de sondeurs multifaisceaux corrigées, collectées par des scientifiques à travers les océans du monde_" 
+La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée pour cela correspond aux normes GEBCO [3], lesquelles ont historiquement évolué : "_La série de chartes GEBCO fut commencée en 1903 par le prince Albert Ier de Monaco [dit le prince navigateur] — donnant des informations sur la forme et la profondeur de la plaine abyssale mondiale. Durant le XXe siècle, il y eut cinq éditions papier de la série de chartes avant que GEBCO ne produise ses premiers produits digitaux au début des années 1990._". Sa méthode [1] : "_Des données de sondeurs multifaisceaux corrigées, collectées par des scientifiques à travers les océans du monde_".
+# Intérêt d'une carte bathymétrique de Clarion-Clipperton pour la France :
+La France est un État qui possède la deuxième plus large ZEE du monde, s'étendant à environ 11 millions de km² [5] : "L'idée est aujourd'hui largement acquise que les 11 millions de km² de zones économiques exclusives et leurs ressources potentielles constituent une chance pour la France et pour l'Europe dans la compétition économique et sur la scène internationale.". Le rapport du Sénat développe aussi quant aux nodules polymétalliques, mentionnant le cadre juridique international et prouvant par ce fait que le débat politique en France est conscient de cette potentialité territoriale : "L'espoir s'est longtemps cantonné aux fameux nodules polymétalliques découverts à la fin des années 60 qui avaient suscité un formidable engouement. Mais faute de se concrétiser, cet espoir s'est commué en un certain scepticisme. Or, les fameux nodules ne représentent qu'une partie du potentiel minéral des océans et, surtout, le cadre international assurant des droits souverains et donc des retours d'investissement sur l'exploitation des ressources est entré en application il y a seulement vingt ans.".
+
 # Glossaire :
 * **Bathymétrie** : C'est l'étude des reliefs et des profondeurs océaniques. Son but est la cartographie des océans. Ses intérêts sont multiples : navigation, prospection économique (par exemple les nodules polymétalliques, pouvant contenir des terres rares, du nickel...), mais aussi la prévention des risques sismiques (la dorsale Est-Pacifique, en perpétuelle évolution géologique, dans le processus d'expansion des fonds océaniques suivant Harry Hess [2])...
 * **Expansion des fonds océaniques** : Dans son ouvrage, _History of Sea Basins_, Harry Hess parle non seulement des théories antérieures sur l'hypothèse d'une expansion des fonds océaniques, en tant que géologue, mais évoque aussi avec une carte la dorsale Est-Pacifique : [2] "_Figure 10. Contour approximatif de la dorsale Est-Pacifique, qui représente possiblement une dorsale océanique si jeune qu'elle n'a pas encore développé une zone de rift médiane et que des sédiments antérieurs à la dorsale sont encore sur sa croûte_".
@@ -27,3 +30,8 @@ _GEBCO.net_<br />
 * [4] "What is Bathymetry?",<br />
 _USGS (United States Geological Survey)_, YouTube, 2 février 2022<br />
 (https://www.youtube.com/watch?v=dTkJjTAbBOI)
+
+* [5] "Les zones économiques exclusives ultramarines : le moment de vérité", <br />
+Rapport d'information n° 430 (2013-2014), déposé le 9 avril 2014,
+Sénat<br />
+(https://www.senat.fr/rap/r13-430/r13-4301.html)
