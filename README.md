@@ -18,9 +18,9 @@ La France est un État qui possède la deuxième plus large ZEE du monde, s'éte
 _Global Multi-Resolution Topography Data Synthesis_, janvier 2026<br />
 (https://www.gmrt.org/)
 
-* [2] _"History of Ocean Basins"_, Harry H. Hess,
-_"PETROLOGIC STUDIES: A VOLUME TO HONOR A. F. BUDDINGTON"_, pp. 599-820 novembre 1962,
-Princeton University, Princeton, N. J. 
+* [2] _"History of Ocean Basins"_, Harry H. Hess,<br />
+_"PETROLOGIC STUDIES: A VOLUME TO HONOR A. F. BUDDINGTON"_, pp. 599-820 novembre 1962,<br />
+Princeton University, Princeton, N. J. <br />
 (https://www.mantleplumes.org/WebDocuments/Hess1962.pdf)
 
 * [3] "Archive of historical GEBCO charts",<br />
@@ -32,10 +32,10 @@ _USGS (United States Geological Survey)_, YouTube, 2 février 2022<br />
 (https://www.youtube.com/watch?v=dTkJjTAbBOI)
 
 * [5] "Les zones économiques exclusives ultramarines : le moment de vérité", <br />
-Rapport d'information n° 430 (2013-2014), déposé le 9 avril 2014,
+Rapport d'information n° 430 (2013-2014), déposé le 9 avril 2014,<br />
 Sénat<br />
 (https://www.senat.fr/rap/r13-430/r13-4301.html)
 
-* [6] "Clipperton, l’île oubliée de la République", Luc CHAILLOT,
-*Est Républicain*,  12 juin 2016
+* [6] "Clipperton, l’île oubliée de la République", Luc CHAILLOT,<br />
+*Est Républicain*,  12 juin 2016<br />
 (https://www.estrepublicain.fr/actualite/2016/06/12/clipperton-l-ile-oubliee-de-la-republique)
