@@ -5,7 +5,7 @@ Carte bathymétrique QGIS de Clarion-Clipperton, avec ZEE de la France, sources 
 
 
 # Bathymétrie ?
-La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée pour cela correspond aux normes GEBCO [3], lesquelles ont historiquement évolué : "_La série de chartes GEBCO fut commencée en 1903 par le prince Albert Ier de Monaco [dit le prince navigateur] — donnant des informations sur la forme et la profondeur de la plaine abyssale mondiale. Durant le XXe siècle, il y eut cinq éditions papier de la série de chartes avant que GEBCO ne produise ses premiers produits digitaux au début des années 1990._ ;
+La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée pour cela correspond aux normes GEBCO [3], lesquelles ont historiquement évolué : "_La série de chartes GEBCO fut commencée en 1903 par le prince Albert Ier de Monaco [dit le prince navigateur] — donnant des informations sur la forme et la profondeur de la plaine abyssale mondiale. Durant le XXe siècle, il y eut cinq éditions papier de la série de chartes avant que GEBCO ne produise ses premiers produits digitaux au début des années 1990._". Sa méthode [1] : "_Des données de sondeurs multifaisceaux corrigées, collectées par des scientifiques à travers les océans du monde_" 
 # Glossaire :
 * **Bathymétrie** : C'est l'étude des reliefs et des profondeurs océaniques. Son but est la cartographie des océans. Ses intérêts sont multiples : navigation, prospection économique (par exemple les nodules polymétalliques, pouvant contenir des terres rares, du nickel...), mais aussi la prévention des risques sismiques (la dorsale Est-Pacifique, en perpétuelle évolution géologique, dans le processus d'expansion des fonds océaniques suivant Harry Hess [2])... 
 
