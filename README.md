@@ -1,6 +1,9 @@
 # Carte-abyssale-de-Clarion-Clipperton :
 Carte bathymétrique QGIS de Clarion-Clipperton, avec ZEE de la France, sources : MarineRegions (ZEE), synthèse GMRT (GMRT.org, légende norme GEBCO). La visualisation de la carte de synthèse GMRT a des paramètres changés, notamment le gamma et le contraste, afin d'en optimiser la lisibilité.
 
+<img width="3507" height="2480" alt="île de Clipperton" src="https://github.com/user-attachments/assets/deb58fd9-1844-4829-a39c-72cb12f72e9f" />
+
+
 # Bathymétrie ?
 La bathymétrie est l'étude des océans, sa cartographie. La carte utilisée pour cela correspond aux normes GEBCO [3], lesquelles ont historiquement évolué : "_La série de chartes GEBCO fut commencée en 1903 par le prince Albert Ier de Monaco [dit le prince navigateur] — donnant des informations sur la forme et la profondeur de la plaine abyssale mondiale. Durant le XXe siècle, il y eut cinq éditions papier de la série de chartes avant que GEBCO ne produise ses premiers produits digitaux au début des années 1990._ ;
 # Glossaire :
