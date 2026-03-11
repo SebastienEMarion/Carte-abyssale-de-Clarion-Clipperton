@@ -32,8 +32,8 @@ _USGS (United States Geological Survey)_, YouTube, 2 février 2022<br />
 (https://www.youtube.com/watch?v=dTkJjTAbBOI)
 
 * [5] "Les zones économiques exclusives ultramarines : le moment de vérité", <br />
-Rapport d'information n° 430 (2013-2014), déposé le 9 avril 2014,<br />
-Sénat<br />
+_Rapport d'information n° 430 (2013-2014)_, déposé le 9 avril 2014,<br />
+*Sénat*<br />
 (https://www.senat.fr/rap/r13-430/r13-4301.html)
 
 * [6] "Clipperton, l’île oubliée de la République", Luc CHAILLOT,<br />
