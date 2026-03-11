@@ -1,4 +1,4 @@
-# Carte-abyssale-de-Clarion-Clipperton :
+# Carte abyssale de Clarion-Clipperton :
 Carte bathymétrique QGIS de Clarion-Clipperton, avec ZEE de la France, sources : MarineRegions (ZEE), synthèse GMRT (GMRT.org, légende norme GEBCO). La visualisation de la carte de synthèse GMRT a des paramètres changés, notamment le gamma et le contraste, afin d'en optimiser la lisibilité.
 
 <img width="3507" height="2480" alt="île de Clipperton" src="https://github.com/user-attachments/assets/deb58fd9-1844-4829-a39c-72cb12f72e9f" />
